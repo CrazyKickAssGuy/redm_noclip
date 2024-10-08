@@ -70,6 +70,8 @@ This script provides a **noclip mode** for RedM, allowing players to freely move
 ## License
 
 This project is licensed under the MIT License. Feel free to modify or distribute the script, but please give credit to the original author.
+See the [LICENSE](./LICENSE) file for more details.
+
 
 ---
 
